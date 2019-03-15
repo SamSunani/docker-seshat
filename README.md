@@ -8,11 +8,11 @@ Then do the following:
 Install the Docker extension for VS Code. It looks like this   
 ![image](https://user-images.githubusercontent.com/15188782/54410639-8d90b880-46a9-11e9-93e6-90080882e84d.png)
 
-Once installed, and the container image has been built, you can find all your containers by clicking on the docker icon. 
-![image](https://user-images.githubusercontent.com/15188782/54410700-d47eae00-46a9-11e9-839d-56415ab89975.png)
-
 If the build was successful you will see this:    
 ![image](https://user-images.githubusercontent.com/15188782/54414498-950a8e80-46b6-11e9-8910-49a0a808953c.png)
+
+Once installed, and the container image has been built, you can find all your containers by clicking on the docker icon. 
+![image](https://user-images.githubusercontent.com/15188782/54410700-d47eae00-46a9-11e9-839d-56415ab89975.png)
 
 Right click on `test-seshat` and run in interactive mode   
 ![image](https://user-images.githubusercontent.com/15188782/54410716-e06a7000-46a9-11e9-98ef-da06a87b96f3.png)
